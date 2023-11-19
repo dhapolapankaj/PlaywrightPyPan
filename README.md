@@ -1,3 +1,3 @@
 # PlaywrightPyPan
 
-Sample playwright tests
+Sample playwright tests with Github Actions
